@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP4</string>
+    <string name="nom">nom</string>
+    <string name="nom_gmail_com">nom@gmail.com</string>
+    <string name="ajoute">AJOUTE</string>
+    <string name="voir_la_base">VOIR LA BASE</string>
+</resources>
